@@ -1,0 +1,20 @@
+{
+  "name": "tweets-api",
+  "version": "1.0.0",
+  "description": "Tweets API for generating comments on a topic.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.7",
+    "wink-eng-lite-model": "https://github.com/winkjs/wink-eng-lite-model/releases/download/1.3.1/wink-eng-lite-model-1.3.1.tgz",
+    "wink-nlp": "^1.8.0",
+    "wink-sentiment": "^5.0.2"
+  }
+}

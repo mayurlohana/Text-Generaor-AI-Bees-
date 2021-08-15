@@ -1,0 +1,35 @@
+{
+    "sports": {
+        "pos": [
+            "{0} will win, this time.",
+            "{0} will be a great year."
+        ],
+        "net": [
+            "No comments.",
+            "Will be there."
+        ],
+        "neg": [
+            "This must not be true for {0}",
+            "This is going to be bad for {0}",
+            "{0} is the best way to get a little better each day."
+        ]
+    },
+    "technology": {
+        "pos": [
+            "{0}'s new model has some really new features.",
+            "{0} is going to bring a revolution.",
+            "This is {0} for you.",
+            "Can't say it enough.",
+            "We will be waiting for you, {0}"
+        ],
+        "net": [
+            "This is {0} for you.",
+            "This is some normal comment for {0}"
+        ],
+        "neg": [
+            "This model of {0} is going to perform very poorly",
+            "This is a very bad design choice for {0}.",
+            "Extremely dissappointed."
+        ]
+    }
+}
